@@ -21,7 +21,7 @@
 
 .board-app__header {
   background:  url(https://images.wallpaperscraft.ru/image/single/pustynia_pesok_noch_129966_1920x1080.jpg);
-  background-size: 100%;
+  background-size: cover;
   padding: 24px 0;
   padding-bottom: 20px;
 
@@ -32,7 +32,7 @@
 
 .board-app__main {
   background:  url(https://images.wallpaperscraft.ru/image/single/pustynia_pesok_noch_129966_1920x1080.jpg);
-  background-size: 100%;
+  background-size: cover;
   padding: 48px 0;
   background-color: var(--main-bg);
   min-height: calc(100vh - 80px);
