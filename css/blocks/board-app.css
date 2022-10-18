@@ -20,6 +20,7 @@
 
 .board-app__header {
   background:  url(https://images.wallpaperscraft.ru/image/single/pustynia_pesok_noch_129966_1920x1080.jpg);
+  background-size: 100%;
   padding: 24px 0;
   padding-bottom: 20px;
 
